@@ -1,0 +1,26 @@
+{
+  "name": "koa_demo",
+  "version": "1.0.0",
+  "description": "a koa2 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbzhanshi999/koa-demo.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "zql",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbzhanshi999/koa-demo/issues"
+  },
+  "homepage": "https://github.com/bbzhanshi999/koa-demo#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
